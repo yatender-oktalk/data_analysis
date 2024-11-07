@@ -20,6 +20,7 @@ pkgs.mkShell {
       plotly
       ipywidgets
       openpyxl
+      fpdf
     ]))
 
     # Additional system dependencies
