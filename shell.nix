@@ -21,6 +21,7 @@ pkgs.mkShell {
       ipywidgets
       openpyxl
       fpdf
+      reportlab
     ]))
 
     # Additional system dependencies
